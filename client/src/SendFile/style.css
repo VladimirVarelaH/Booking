@@ -1,0 +1,10 @@
+.form_col{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+}
+
+form{
+    padding-bottom: 8vh;
+}
